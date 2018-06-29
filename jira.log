@@ -1,0 +1,26 @@
+10:16:47 INFO : TestLogger - Info: Clicking submit button
+10:16:49 INFO : TestLogger - Info: urlActual is: http://fi2.ppa.nhs.uk/PPCSYST/ppc_telesales_webapp/search.do?certNumber=20000015625
+10:16:59 INFO : TestLogger - Info: Correct Cert Status: Certificate issued
+10:17:00 INFO : TestLogger - Info: Correct Cert Type: MAT
+10:17:01 INFO : TestLogger - Info: Correct Cert Fulfilment: Email
+10:17:02 INFO : TestLogger - Info: Correct Cert Start: 02-09-2017
+10:17:03 INFO : TestLogger - Info: Correct Cert Expiry: 24-12-2018
+10:17:05 INFO : TestLogger - Info: Correct Application Date: 02-10-2017
+10:17:06 INFO : TestLogger - Info: Correct HCP Identifier: AAAA1111
+10:17:07 INFO : TestLogger - Info: Clicking submit button
+10:17:09 INFO : TestLogger - Info: urlActual is: http://fi2.ppa.nhs.uk/PPCSYST/ppc_telesales_webapp/search.do?certNumber=20000017653
+10:17:19 INFO : TestLogger - Info: Correct Cert Status: Certificate issued
+10:17:20 INFO : TestLogger - Info: Correct Cert Type: MAT
+10:17:21 INFO : TestLogger - Info: Correct Cert Fulfilment: Card
+10:17:22 INFO : TestLogger - Info: Correct Cert Start: 05-11-2017
+10:17:24 INFO : TestLogger - Info: Correct Cert Expiry: 10-11-2018
+10:17:25 INFO : TestLogger - Info: Correct Application Date: 05-12-2017
+10:17:26 INFO : TestLogger - Info: Correct HCP Identifier: CCCC3333
+10:17:27 INFO : TestLogger - Info: Clicking submit button
+10:17:29 INFO : TestLogger - Info: urlActual is: http://fi2.ppa.nhs.uk/PPCSYST/ppc_telesales_webapp/search.do?certNumber=20000005966
+10:17:39 INFO : TestLogger - Info: Correct Cert Status: Certificate issued
+10:17:40 INFO : TestLogger - Info: Correct Cert Type: MAT
+10:17:41 INFO : TestLogger - Info: Correct Cert Fulfilment: Card
+10:17:42 INFO : TestLogger - Info: Correct Cert Start: 29-12-2012
+10:17:43 INFO : TestLogger - Info: Correct Cert Expiry: 31-12-2018
+10:17:45 INFO : TestLogger - Info: Correct Application Date: 29-01-2013
